@@ -1,0 +1,17 @@
+{
+  "name": "mongodb_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "mongoose": "^5.10.15",
+    "mongose": "0.0.2-security"
+  }
+}
